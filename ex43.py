@@ -40,7 +40,7 @@ class Game(object):
 		hiding_options = ["A", "B", "C", "D", "E"]
 
 		hiding_place = random.choice(hiding_options)
-		print hiding_place
+		# print hiding_place
 
 		print "You look... \n"
 
